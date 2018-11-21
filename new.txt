@@ -1,0 +1,9 @@
+cd 指定位置
+log
+touch 新增檔案
+init 
+add 暫存區
+commit -m 修改的描述
+status
+diff
+git --help | grep check
